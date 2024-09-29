@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "(Void and KillUpdate!)",
+        "name": "MyAddon1-v6.0.0",
+        "uuid": "6ff93700-7ddf-4811-90dc-4d97e26d5758",
+        "version": [6, 0, 0],
+        "min_engine_version": [ 1, 21, 30 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "1ba789e1-e8f8-4070-b43e-b41c059a182a",
+            "version": [6, 0, 0]
+        }
+    ]
+}
